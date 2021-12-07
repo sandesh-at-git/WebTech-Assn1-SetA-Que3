@@ -5,5 +5,5 @@
 [1] Write a HTML script to display following screen in figure
 ## Documentation
 
-[Live Solution](https://sandesh-at-git.github.io/WebTechAss1-SetA-Que3/)
+[Live Solution](https://sandesh-at-git.github.io/WebTech-Assn1-SetA-Que3/)
 
